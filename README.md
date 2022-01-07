@@ -1,5 +1,13 @@
-#Noah's GitHub
-##Hi there 👋
+# Noah's GitHub
+
+![Website](https://img.shields.io/website?style=for-the-badge&logo=jekyll&logoColor=whiteup_message=noahsk.de&url=https%3A%2F%2Fnoahsk.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Noah%20Skrzypczyk-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-skrzypczyk-ba7b67191)
+[![Xing](https://img.shields.io/badge/Xing-Noah%20Skrzypczyk-informational?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Noah_Skrzypczyk)
+
+## 📈 My Stats
+
+![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nskrzypczyk&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nskrzypczyk&layout=compact&theme=react)](https://github.com/nskrzypczyk)
 
 <!--
 **nskrzypczyk/nskrzypczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
